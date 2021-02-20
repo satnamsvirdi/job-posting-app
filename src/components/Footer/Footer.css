@@ -1,0 +1,10 @@
+footer {
+	display: flex;
+	justify-content: center;
+	/*background: red;*/
+	padding: 0.5rem;
+}
+
+footer small {
+	text-align: center;
+}
